@@ -1,0 +1,8 @@
+1001|Lucas Silva|lucas.silva@gmail.com|BR|ACTIVE|1995-06-12
+1002|Ana Souza|ana.souza@gmail.com|BR|INACTIVE|1988-02-20
+1003|Carlos Pereira|carlos.p@gmail.com|PT|ACTIVE|1992-11-03
+1004|Mariana Costa|mariana.c@gmail.com|BR|ACTIVE|1999-07-25
+1005|Fernanda Lima|fernanda.l@gmail.com|US|BLOCKED|1985-09-14
+1006|Rafael Alves|rafael.a@gmail.com|BR|ACTIVE|1993-03-30
+1007|Beatriz Rocha|bia.rocha@gmail.com|BR|ACTIVE|2000-01-10
+1008|Gustavo Martins|gustavo.m@gmail.com|CA|INACTIVE|1991-12-05

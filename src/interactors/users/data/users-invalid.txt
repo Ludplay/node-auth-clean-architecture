@@ -1,0 +1,6 @@
+1,John Doe,john@example.com,29
+INVALID_LINE_HERE
+3,Mary,missing_email
+4,,empty_name@example.com,40
+5,Chris Wilson,chris@example.com,not_a_number
+6,Sarah Taylor,sarah@example.com,26
